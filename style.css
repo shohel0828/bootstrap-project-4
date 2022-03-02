@@ -1,0 +1,151 @@
+.for {
+    width: 350px;
+    height: 35px;
+    margin-left: 50px;
+    margin-top: 40px;
+    border: 1px solid black;
+    padding-top: 2.5px;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 50px;
+    
+}
+.do {
+    align-items: center;
+    justify-content: space-between;
+     
+}
+.srch {
+    border: none;
+    outline: none;
+    width: 310px;
+    padding-left: 5px;
+    padding-top: 2.5px;
+    justify-content: center;
+    align-items: center;
+}
+.search {
+    padding-left: 10px;
+}
+.container {
+    justify-content: center;
+    align-items: center;
+}
+.collapse {
+    margin-left: 25px;
+}
+.did {
+    margin-top: 25px;
+}
+.pic {
+   width: 105px;
+   height: 105px;
+}
+.photo {
+    width: 105px;
+    height: 105px; 
+}
+.to {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 58px;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+.ko {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin-left: 58px;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+.jo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+    margin-left: 58px;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+.done {
+    margin-top: 25px;
+}
+h2 {
+    margin-left: 0px; 
+}
+.btn {
+    margin-left: 29%;
+}
+.bing {
+    width: 213px;
+    height: 30px;
+    
+    border: 1px solid white;
+   
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 5px; 
+}
+.maile {
+    border: none;
+    outline: none;
+    background-color: aqua;
+    margin-bottom: 30px;
+}
+.don {
+    padding-left: 5px;
+}
+.hr {
+    width: 40px;
+}
+.icon {
+   margin-left: 40%;
+}
+.rok {
+    padding: 7px;
+   
+}
+.footer {
+    margin-top: 45px;
+    background-color: black;
+}
+.fool {
+    width: 290px;
+    height:130px;
+    display: flex;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.man {
+    width: 90px;
+    height: 70px;
+}
+h5 {
+    padding-left: 39%;
+}
+.sobi {
+    width: 150px;
+    height: auto;
+    transition: 1s;
+}
+.card {
+    justify-content: center;
+    align-items: center;
+}
+.sobi:hover {
+    transform: scale(1.2);
+}
+span {
+    color: white;
+} h3 {
+    color: red;
+}
+.not {
+    margin-top: 40px;
+}
